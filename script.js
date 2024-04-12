@@ -4,5 +4,5 @@ but1[0].onclick=function(){
     h1[0].innerHTML="first";
 }
 but1[1].onclick=function(){
-    h1[1].innerHTML="second";
+    h1[0].innerHTML="second";
 }
